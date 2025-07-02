@@ -1,0 +1,101 @@
+table.github-style-comment td.r1
+{
+  width: 60px;
+  border: none;
+  padding: 0;
+  box-sizing: border-box;
+}
+.comment-header {
+  display: flex;
+  align-items: center;
+  padding-right: 16px;
+  padding-left: 0px;
+  color: #586069;
+  background-color: #f6f8fa;
+  border-bottom: 0;
+  border-top: 1px solid #d1d5da;
+  border-right: 1px solid #d1d5da;
+  border-left: 1px solid #d1d5da;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  background-image: url("/assets/github-actions.svg");
+  background-repeat: no-repeat;
+  background-position: 97% 50%;
+  font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+  font-size: 14px;
+  height: 40px;
+  box-sizing: border-box;
+}
+.comment-body {
+  display: flex;
+  width: 100%;
+  padding-right: 16px;
+  padding-left: 16px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  overflow: visible;
+  font-size: 14px;
+  border: 1px solid #d1d5da;
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+  box-sizing: border-box;
+}
+.rounded-avatar {
+  display: inline-block;
+  overflow: hidden;
+  line-height: 1;
+  vertical-align: middle;
+  border-radius: 3px!important;
+  margin-right: 20px;
+  border-style: none;
+}
+.comment-header::before {
+  position: relative;
+  left: -16px;
+  display: block;
+  width: 0;
+  height: 0;
+  pointer-events: none;
+  content: " ";
+  border-color: transparent;
+  border-right-color: #d1d5da;
+  border-style: solid solid outset;
+  border-width: 8px;
+}
+table.github-style-comment {
+    border-spacing: 0;
+    border-collapse: collapse;
+    max-width: 680px;
+    border: 0;
+    box-sizing: border-box;
+}
+tbody.gsc-tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+    box-sizing: border-box;
+}
+tr.gsc-tr {
+    display: table-row;
+    vertical-align: inherit;
+    border-color: inherit;
+    background: none;
+    box-sizing: border-box;
+
+    &:nth-child(even) {
+        background-color: transparent;
+      }
+}
+td {
+    display: table-cell;
+    vertical-align: inherit;
+    padding: 0;
+}
+div.name p {
+    margin-top: 14px;
+}
+
