@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How was it for you?
-permalink: How-was-it-for-you?
+permalink: How-was-it-for-you
 ---
 
 I know the group's been very quiet for a while. And, even though life's been getting in the way, I've not forgotten about it.  
