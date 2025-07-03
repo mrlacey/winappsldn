@@ -15,4 +15,4 @@ Whether you’re new to app development or have been doing it for years you’re
 
 We’re an independent group and do not charge for membership or meeting attendance. We simply ask that you come willing to participate in discussion or share your knowledge and that you register if you’re planning on coming to a meeting.
 
-~If you have any questions about the group please email info [at] windowsapps[dot] london or tweet us via @winappsldn.~
+~~If you have any questions about the group please email info [at] windowsapps[dot] london or tweet us via @winappsldn.~~
