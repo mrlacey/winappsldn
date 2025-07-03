@@ -1,6 +1,7 @@
 ---
-layout: page
 title: Meetings
+description: Details of past meetings
+layout: page
 ---
 
 We host_ed_ meetings in London almost every month and others hold occasional meetings in Manchester and Cardiff or Bristol.  

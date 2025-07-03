@@ -1,7 +1,9 @@
 ---
-layout: page
 title: Conduct
+description: Code of conduct for event participants
+layout: page
 ---
+
 
 ## A code of conduct?
 
