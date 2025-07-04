@@ -4,7 +4,7 @@ description: Details of past meetings
 layout: page
 ---
 
-We host_ed_ meetings in London almost every month and others hold occasional meetings in Manchester and Cardiff or Bristol.  
+We host__ed__ meetings in London almost every month and others hold occasional meetings in Manchester and Cardiff or Bristol.  
 Details of our past meetings are below.
 
 **18th May 2020**  
