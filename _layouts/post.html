@@ -19,10 +19,10 @@ layout: default
   </div>
 
 {% if page.previous %}
-  <a href="{{ page.previous.url }}" title="{{ page.previous.title }}">&lt;&lt; Previous</a>
+  <a href="./{{ page.previous.url }}" title="{{ page.previous.title }}">&lt;&lt; Previous</a>
 {% endif %}
 {% if page.next %}
-  <a href="{{ page.next.url }}" title="{{ page.next.title }}" style="float: right;">Next &gt;&gt;</a>
+  <a href="./{{ page.next.url }}" title="{{ page.next.title }}" style="float: right;">Next &gt;&gt;</a>
 {% endif %}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
