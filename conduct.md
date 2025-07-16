@@ -39,4 +39,4 @@ Organisers and staff will be happy to help participants contact venue security o
 
 We expect participants to follow these rules at event venues and any related social events.
 
-The above is based on [http://confcodeofconduct.com/](confcodeofconduct.com) and used under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/deed.en_US)
+The above is based on [http://confcodeofconduct.com/](http://confcodeofconduct.com) and used under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/deed.en_US)
