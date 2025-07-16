@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NDC London #WPDev Quiz Questions
+title: NDC London WPDev Quiz Questions
 permalink: NDC-London-WPDev-Quiz-Questions
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: WPUG at #NDCLondon
+title: WPUG at NDCLondon
 permalink: WPUG-at-NDCLondon
 ---
 
