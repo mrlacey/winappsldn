@@ -16,13 +16,12 @@ layout: default
     {{ content }}
   </div>
 
-  {% if page.next_link and page.next_text %}
-  <div class="page-content">
-    <div class="wrapper">
-        <p><a href="{{ page.next_link }}">{{ page.next_text }}</a></p>
-    </div>
-  </div>
-  {% endif %}
+{% if page.previous %}
+  <a href="{{ page.previous.url }}">Previous: {{ page.previous.title }}</a>
+{% endif %}
+{% if page.next %}
+  <a href="{{ page.next.url }}">Next: {{ page.next.title }}</a>
+{% endif %}
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
