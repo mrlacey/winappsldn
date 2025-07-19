@@ -6,7 +6,7 @@ permalink: WPUG-Alumni-on-the-Gone-Mobile-podcast
 
 This was totally unplanned but three of the last four guests on the Gone Mobile Podcast will be familiar to you if you were a regular attendee of WPUG meetings.
 
-[![GoneMobile.io](http://gonemobile.io/images/Gone.Mobile.Header.Logo.png)](http://gonemobile.io/)
+[![Gone Mobile](/winappsldn/images/gone-mobile-cover_medium.jpg)](http://gonemobile.io/)
 
 Listen and enjoy:
 
