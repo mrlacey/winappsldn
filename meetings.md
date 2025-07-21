@@ -349,7 +349,7 @@ To celebrate 2 full days of Windows Phone 7 content we had a private bar reserve
 > "I really enjoyed everyone's demos; even the games, which is not my domain, provided some interesting info about phone dev."
 
 **_20th April 2011_** - **Mix11 recap (with [Matt Lacey](http://twitter.com/mrlacey) - Filling in for Paul Foster)**  
-The people behind [Very Software](http://www.verysoftware.co.uk/) demoed [AppTracker](http://social.zune.net/redirect?type=phoneApp&id=ceb1e261-9909-e011-9264-00237de2db9e)  
+The people behind Very Software (~~http&#58;&#47;&#47;www.verysoftware.co.uk/~~) demoed [AppTracker](http://social.zune.net/redirect?type=phoneApp&id=ceb1e261-9909-e011-9264-00237de2db9e)  
 and [Richard Castle](http://twitter.com/richardcastle) showed us the radio streaming app he's working on.
 
 > "met some great people and heard some very interesting info"
@@ -389,7 +389,7 @@ A number of our members gave demos of and talked about some of the applications 
 **Stuart Lodge** talked about porting his [Run Saturday](http://www.runningfreeonline.com/Talk/g/posts/m/16156) app to WP7.  
 This meeting was kindly hosted by [EMC Consulting](http://uk.emc.com/services/emc-consulting.htm).
 
-**_6th October 2010_** - with **[Cortexica](http://www.cortexica.com/)** and **[Red Badger](http://red-badger.com/)**  
+**_6th October 2010_** - with **Cortexica (~~http&#58;&#47;&#47;www.cortexica.com/~~)** and **[Red Badger](http://red-badger.com/)**  
 VISUALFindr (~~http&#58;&#47;&#47;visualfindr.codeplex.com/~~) (from Cortexica)  
 [XPF](http://red-badger.com/Blog/post/Introducing-XPF-e28093-A-Layout-Framework-for-XNA.aspx) (from Red Badger) - [video](http://red-badger.com/Blog/post/XPF-Video-Windows-Phone-7-User-Group-Presentation.aspx)  
 Demo: [Big Give](http://www.youtube.com/watch?v=nOrNuYASGec)
@@ -397,11 +397,11 @@ Demo: [Big Give](http://www.youtube.com/watch?v=nOrNuYASGec)
 **_25th August 2010_** - with **[Matt Lacey](http://blog.mrlacey.co.uk/)** and **[Mike Ormond](http://blogs.msdn.com/b/mikeormond/)**  
 Matt's [slides](http://www.slideshare.net/mrlacey/wp7dev-with-html-javascript)  
 Mike's [notes](http://blogs.msdn.com/b/mikeormond/archive/2010/08/26/wpug-meeting-notes.aspx)  
-Demo: [CycleHubs](http://www.cyclehubs.com/)
+Demo: CycleHubs (~~http&#58;&#47;&#47;www.cyclehubs.com/~~)
 
 > "great to hear dev thoughts & experiences & see some interesting apps demo'ed"
 
-**_28th July 2010_** - with **[Paul Foster](http://wotudo.net/)** and **[Rob Fonseca-Ensor](http://www.robfe.com/)  
+**_28th July 2010_** - with **Paul Foster (~~http&#58;&#47;&#47;wotudo.net/~~)** and **[Rob Fonseca-Ensor](http://www.robfe.com/)  
 **Rob's [slides](https://mrlacey.github.io/winappsldn/assets/XNA%20for%20WP7.pptx) & [code](https://mrlacey.github.io/winappsldn/assets/Game1.cs)  
 Demos: [Skillbook](http://www.youtube.com/watch?v=7UMp2jnAWNA) | [London tube](http://www.youtube.com/watch?v=Yz-a9cUO8Hw) | [ICE](http://www.youtube.com/watch?v=7r1Ljgy8xsQ) | [cryoDefense](http://www.youtube.com/watch?v=hEzE1ugrFQw)  
 This meeting was kindly hosted by [EMC Consulting](http://uk.emc.com/services/emc-consulting.htm).
