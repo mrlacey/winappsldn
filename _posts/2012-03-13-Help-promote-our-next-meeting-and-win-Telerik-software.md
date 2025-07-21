@@ -4,7 +4,7 @@ title: Help promote our next meeting and win Telerik software
 permalink: Help-promote-our-next-meeting-and-win-Telerik-software
 ---
 
-Help us spread the word about [our next meeting](http://wpug.net/2012/03/12/meeting20-mar21/) and you could win **Telerik** software including their **[RadControls for Windows Phone](http://www.telerik.com/products/windows-phone.aspx).**
+Help us spread the word about [our next meeting](https://mrlacey.github.io/winappsldn/Meeting-20%E2%80%93March-21st) and you could win **Telerik** software including their **[RadControls for Windows Phone](http://www.telerik.com/products/windows-phone.aspx).**
 
 Simply write a blog post, article, tweet or something else which encourages people to attend our next meeting and to go to [http://wpug20.eventbrite.com/](http://wpug20.eventbrite.com/) or [http://www.meetup.com/wpuguk/events/56027782/](http://www.meetup.com/wpuguk/events/56027782/) to register.  
 Then add a comment below to show what you've posted.

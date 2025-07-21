@@ -27,6 +27,6 @@ With **no Microsoft speakers** (although there may be some people from Microsoft
 
 We're also especially pleased to announce that this evening will be a joint event with the [London Windows Store App Developer Group](http://www.meetup.com/MetroStyleLondon/) as we know this is a subject which is of interest to both groups.
 
-We'll be at [Modern Jago](http://wpug.net/2012/10/29/how-to-get-to-modern-jago/) in Shoreditch again, meeting from 6:30 for a 7:00 start.
+We'll be at [Modern Jago](https://mrlacey.github.io/winappsldn/How-to-get-to-Modern-Jago) in Shoreditch again, meeting from 6:30 for a 7:00 start.
 
 Register via [eventbrite](http://wpug27.eventbrite.com/) or [http://www.meetup.com/wpuguk/](http://www.meetup.com/wpuguk/events/calendar/#upcoming)

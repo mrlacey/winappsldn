@@ -14,4 +14,4 @@ In the community area you'll find a range of groups covering a breadth of subjec
 
 **First prize is a Windows Store gift card worth £50** which can be used to purchase apps, games and more for both Windows Phone and Windows 8. We'll have smaller, runners up prizes too.
 
-Additionally, [Matt](https://twitter.com/mrlacey) is offering to provide [consultation to help improve your apps](http://wpug.net/2013/11/27/leave-ndc-london-with-a-better-app/). Get in touch with him in advance if this interests you.
+Additionally, [Matt](https://twitter.com/mrlacey) is offering to provide [consultation to help improve your apps](https://mrlacey.github.io/winappsldn/Leave-NDC-London-with-a-better-app). Get in touch with him in advance if this interests you.

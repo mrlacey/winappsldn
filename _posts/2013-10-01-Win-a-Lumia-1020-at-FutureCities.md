@@ -4,7 +4,7 @@ title: Win a Lumia 1020 at FutureCities
 permalink: Win-a-Lumia-1020-at-FutureCities
 ---
 
-The [Future Cities hackathon](http://futurecitieshackathon.com/), that [we mentioned the other day](http://wpug.net/2013/09/30/future-cities-hackathon/), has a new sponsor. Nokia.
+The [Future Cities hackathon](http://futurecitieshackathon.com/), that [we mentioned the other day](https://mrlacey.github.io/winappsldn/Future-Cities-Hackathon), has a new sponsor. Nokia.
 
 ![Lumia on SkyLine](https://mrlacey.github.io/winappsldn/images/LondonCitySkylinetxt2_plus_lumia1020.png)
 

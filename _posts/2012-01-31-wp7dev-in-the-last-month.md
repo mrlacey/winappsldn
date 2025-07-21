@@ -8,7 +8,7 @@ If you're a follower of the [@wpug](http://twitter.com/wpug) twitter feed you'll
 There are various reasons for this that I won't bother you with. (I'm fine by the way-thanks for asking.)
 
 This means that there's been loads of news, articles, blogs, etc. which I haven't been tweeting about. As I've just caught up on my reading lists this leaves the question about how to share the relevant articles? I considered drip feeding\* them into the twitter feed.  
-This would mean that they potentially get to the regular audience and appear in the [archive](http://tweets.wpug.net/) which can be a useful resource when searching (hint).
+This would mean that they potentially get to the regular audience and appear in the archive (~~http&#58;&#47;&#47;tweets.wpug.net/~~) which can be a useful resource when searching (hint).
 
 The other alternative is just to publish them here. This is what I'm doing.
 

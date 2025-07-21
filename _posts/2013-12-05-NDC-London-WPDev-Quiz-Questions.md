@@ -20,4 +20,4 @@ To allow everyone (you) to take part, virtually, and just for fun (sorry no priz
 The answers will be posted shortly so you can check your answers.  
 Or, if you're being brave, post your answers in the comments ;)
 
-Wonder how you did? Check the [answers](http://wpug.net/2013/12/06/ndc-london-wpdev-quiz-answers/).
+Wonder how you did? Check the [answers](https://mrlacey.github.io/winappsldn/NDC-London-WPDev-Quiz-Answers).

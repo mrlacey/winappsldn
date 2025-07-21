@@ -4,8 +4,8 @@ title: NDC London WPDev Quiz Answers
 permalink: NDC-London-WPDev-Quiz-Answers
 ---
 
-Yesterday we shared the [questions from the quiz](http://wpug.net/2013/12/05/ndc-london-wpdev-quiz-questions/) we ran at [NDC London](http://www.ndc-london.com/).  
-Go and have a look at the [questions](http://wpug.net/2013/12/05/ndc-london-wpdev-quiz-questions/) now if you want to try them yourself. (Don't scroll down yet and spoil it by seeing the answers.)
+Yesterday we shared the [questions from the quiz](https://mrlacey.github.io/winappsldn/NDC-London-WPDev-Quiz-Questions) we ran at [NDC London](http://www.ndc-london.com/).  
+Go and have a look at the [questions](https://mrlacey.github.io/winappsldn/NDC-London-WPDev-Quiz-Questions) now if you want to try them yourself. (Don't scroll down yet and spoil it by seeing the answers.)
 
 Here, as promised are the answers, and the winners.
 

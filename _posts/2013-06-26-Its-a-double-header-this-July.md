@@ -6,7 +6,7 @@ permalink: Its-a-double-header-this-July
 
 That's right, we're having 2 meetings this July.
 
-The first, with [Gill Cleeren at Telerik](http://wpug.net/2013/06/25/a-special-meeting-at-telerik-in-july/), is already fully booked, and we expect the second to be equally popular.
+The first, with [Gill Cleeren at Telerik](https://mrlacey.github.io/winappsldn/A-special-meeting-at-Telerik-in-July), is already fully booked, and we expect the second to be equally popular.
 
 On **July 23rd** we'll be joining the lovely folks at [UI Centric](http://www.uicentric.com/), who will be talking about their design processes and how they've applied them to Windows Phone.
 
