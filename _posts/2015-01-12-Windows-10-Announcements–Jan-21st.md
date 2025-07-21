@@ -7,7 +7,7 @@ permalink: Windows-10-Announcements–Jan-21st
 Apparently there's going to be a "significant" event related to Windows 10 on January 21st.  
 Come along and hear all the news and discuss what it could mean for you and the apps you've made or are thinking about.
 
-[![610x380](http://windowsapps.london/wp-content/uploads/2015/01/610x380.png)](http://windowsapps.london/wp-content/uploads/2015/01/610x380.png)
+[!Jan 21st Announcements](https://mrlacey.github.io/winappsldn/images/610x380.png)
 
 As a group we're all about helping everyone create great, successful apps and that means more than just hearing the latest news.
 

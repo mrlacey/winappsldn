@@ -4,7 +4,7 @@ title: Food and drink
 permalink: food-and-drink
 ---
 
-![pizza](http://windowsapps.london/wp-content/uploads/2015/03/pizza.jpg)
+![pizza](https://mrlacey.github.io/winappsldn/images/pizza.jpg)
 
 More than just beer and pizza!  
 Our meetings are typically held in the evening. Most people who attend come straight from work and so our meetings are at a time when they would normally be eating their evening meal.  
@@ -16,4 +16,4 @@ Catering for large numbers of people isn't straight forward and some of the ways
 At our meetings we normally order a mix of pizzas with a range of sides. We also provide a wide variety of soft and alcoholic drinks.  
 When requested we've previously catered for vegetarians, vegans, coeliacs and more. We try our best to cater to everyone's specific needs but, hopefully obviously, can't always deal with every request. Especially if it is received at the last minute.
 
-If you have any special requirements or requests **please let us know when you register** or email 'info \[at\] windowsapps \[dot\] london'.
+If you have any special requirements or requests **please let us know when you register** or email '~~info \[at\] windowsapps \[dot\] london~~'.

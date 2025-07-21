@@ -152,7 +152,7 @@ A look at preparing for Windows 10, C# 6.0 and Visual Studio 2015
 Joint event with [AppChat](http://appchat.us/)
 
 **24th September 2014**  
-Matteo Emili: VSO Application Insights \[[slides](http://windowsapps.london/assets/AppInsights.pptx)\]  
+Matteo Emili: VSO Application Insights \[[slides](https://mrlacey.github.io/winappsldn/assets/AppInsights.pptx)\]  
 Richard Conway: Azure Mobile Services
 
 **27th August 2014**  

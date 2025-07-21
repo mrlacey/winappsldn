@@ -4,7 +4,7 @@ title: October Newsletter
 permalink: october-newsletter
 ---
 
-If you're not signed up to receive our newsletter (enter your email in the box on the [home page](http://windowsapps.london/) if you want to join) you'll have missed this.  
+If you're not signed up to receive our newsletter (enter your email in the box on the [home page](https://mrlacey.github.io/winappsldn/) if you want to join) you'll have missed this.  
 Because I don't want you to feel left out:
 
 - - -
