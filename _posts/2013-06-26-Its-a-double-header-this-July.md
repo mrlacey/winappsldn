@@ -12,7 +12,7 @@ On **July 23rd** we'll be joining the lovely folks at [UI Centric](http://www.ui
 
 We'll also be hearing from Glynn Jones, CEO of Scoopt (~~http&#58;&#47;&#47;scoopt.com/~~). He'll be talking about the lessons learnt when they ported their app to Windows Phone but also what they've learnt in forming a start up around an app.
 
-If you wish to come, please register at [http://wpug34.eventbrite.com/](http://wpug34.eventbrite.com/) OR [http://www.meetup.com/wpuguk/events/126544572/](http://www.meetup.com/wpuguk/events/126544572/)  
+If you wish to come, please register at ~~http&#58;&#47;&#47;wpug34.eventbrite.com/~~ OR [http://www.meetup.com/wpuguk/events/126544572/](http://www.meetup.com/wpuguk/events/126544572/)  
 There is no need to register at both. Just one will do. We provide the option of registering with either as we know some people have strong preferences/opinions about the two sites.
 
 Again spaces are limited so if you register but later find you are unable to attend please let us know so we can offer the space to someone else.

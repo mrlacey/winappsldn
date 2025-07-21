@@ -20,4 +20,4 @@ The talk will be aimed at beginners with the platform and no prior knowledge is 
 
 If you want to know more in advance, check out [http://multiplay.io/](http://multiplay.io) or [http://blog.softwareispoetry.com/](http://blog.softwareispoetry.com/)
 
-If you'd like to come (it's **free**) then please register at either [eventbrite](http://wpug30.eventbrite.com/) OR [meetup.com](http://www.meetup.com/wpuguk/events/112322872/). (Having an idea of how many people are coming helps us prepare appropriately-i.e. get enough beer in.)
+If you'd like to come (it's **free**) then please register at either ~~http&#58;&#47;&#47;wpug30.eventbrite.com/~~ OR [meetup.com](http://www.meetup.com/wpuguk/events/112322872/). (Having an idea of how many people are coming helps us prepare appropriately-i.e. get enough beer in.)

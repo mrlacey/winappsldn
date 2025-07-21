@@ -8,7 +8,7 @@ Let's assume you're one of the 130+ people who've been to one of the three WPUG 
 
 Having a person (or persons) give a talk from the front can be a great way to learn. But it isn't the only way.
 
-That's why with our next meeting ([on November 30th at EMC](http://wpug4.eventbrite.com/)) we're going to do something different. It's just going to be demos!
+That's why with our next meeting (on November 30th at EMC ~~http&#58;&#47;&#47;wpug4.eventbrite.com/~~) we're going to do something different. It's just going to be demos!
 
 This is why **WE NEED YOU!**  
 ![Point! by a2gemma, on Flickr](http://farm2.static.flickr.com/1339/1448178195_bff4bcd6c2.jpg)]
@@ -28,4 +28,4 @@ Unfortunately we can't promise the same for everyone who gives a demo this time.
 
 As is tradition, we'll also head to a nearby pub afterwards to continue the discussions.
 
-Please [register via EventBrite](http://wpug4.eventbrite.com/) and we'll see you on the 30th!
+Please register via EventBrite (~~http&#58;&#47;&#47;wpug4.eventbrite.com/~~) and we'll see you on the 30th!

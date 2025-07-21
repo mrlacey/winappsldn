@@ -4,7 +4,7 @@ title: Speakers for February meeting
 permalink: Speakers-for-February-meeting
 ---
 
-If you were holding off from registering for [our meeting this month](http://notatmwc12.eventbrite.com/) until you knew who would be speaking then wait no longer.
+If you were holding off from registering for our meeting this month (~~http&#58;&#47;&#47;notatmwc12.eventbrite.com/~~) until you knew who would be speaking then wait no longer.
 
 As announced on [his blog](http://www.scottlogic.co.uk/blog/colin/2012/02/wpug-talk-developing-cross-platform-mobile-applications-with-phonegap-for-windows-phone-7/), **Colin Eberhardt** ([@ColinEberhardt](https://twitter.com/ColinEberhardt)) will be travelling down from Edinburgh to talk about PhoneGap (~~http&#58;&#47;&#47;phonegap.com/~~). (See a full synopsis of what he's planning to talk about [on his blog](http://www.scottlogic.co.uk/blog/colin/2012/02/wpug-talk-developing-cross-platform-mobile-applications-with-phonegap-for-windows-phone-7/).
 

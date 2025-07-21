@@ -29,4 +29,4 @@ We're also especially pleased to announce that this evening will be a joint even
 
 We'll be at [Modern Jago](https://mrlacey.github.io/winappsldn/How-to-get-to-Modern-Jago) in Shoreditch again, meeting from 6:30 for a 7:00 start.
 
-Register via [eventbrite](http://wpug27.eventbrite.com/) or [http://www.meetup.com/wpuguk/](http://www.meetup.com/wpuguk/events/calendar/#upcoming)
+Register via ~~http&#58;&#47;&#47;wpug27.eventbrite.com/~~ or [http://www.meetup.com/wpuguk/](http://www.meetup.com/wpuguk/events/calendar/#upcoming)

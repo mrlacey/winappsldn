@@ -12,4 +12,4 @@ Learn more at [http://www.ndc-london.com/](http://www.ndc-london.com/)
 Early bird pricing is available until Sept 16th but because the people who come to WPUG are so awesome, **we'll be giving away a 3-day pass to one attendee of our next meeting**.  
 Yes, everyone who attends our next (London) meeting will be entered into a draw for the ticket.
 
-Register for the meeting at [http://wpug35.eventbrite.com/](http://wpug35.eventbrite.com/).
+Register for the meeting at ~~http&#58;&#47;&#47;eventbrite.com/~~.

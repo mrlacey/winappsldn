@@ -12,6 +12,6 @@ Register at
 
 [http://www.meetup.com/wpuguk/events/126362302/](http://www.meetup.com/wpuguk/events/126362302/)  
 or  
-[http://wpug33.eventbrite.com/](http://wpug33.eventbrite.com/)
+~~http&#58;&#47;&#47;wpug33.eventbrite.com/~~
 
 Hurry spaces are going fast.

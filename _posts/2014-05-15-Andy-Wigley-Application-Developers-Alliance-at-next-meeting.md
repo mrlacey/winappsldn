@@ -12,4 +12,4 @@ We'll be hearing about the [Application Developers Alliance](http://appdeveloper
 
 If you can make it, it'll be great to see you there.
 
-If you're planning to come it helps us plan catering if you can let us know. Please register via [eventbrite](http://wpug42.eventbrite.com/) OR meetup to let us know your intention.
+If you're planning to come it helps us plan catering if you can let us know. Please register via ~~http&#58;&#47;&#47;wpug42.eventbrite.com/~~ OR meetup to let us know your intention.

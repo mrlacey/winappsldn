@@ -4,7 +4,7 @@ title: Get more downloads at our next meeting
 permalink: Get-more-downloads-at-our-next-meeting
 ---
 
-Our [next meeting](http://wpug31.eventbrite.com/) is on May 20th and is being hosted by our friends at Nokia.
+Our next meeting is on May 20th and is being hosted by our friends at Nokia.
 
 As part of the meeting we'll be hosting a demo showcase. This is an opportunity to show off an app you've built.
 
@@ -29,6 +29,6 @@ There's just two criteria:
 
 Typically we ask people to share a little about the lessons they learnt in the creation of the app they're demoing. For this event we're suspending that rule though. If you just want to show off your app that's fine.
 
-If you want to demo (one of) your app(s) then you need to register, either via [eventbrite](http://wpug31.eventbrite.com/) or [meetup](http://www.meetup.com/wpuguk/events/117227082/) (there's no need to register on both) and then drop me a line to say that you want to participate.
+If you want to demo (one of) your app(s) then you need to register, either via ~~http&#58;&#47;&#47;wpug31.eventbrite.com/~~ or [meetup](http://www.meetup.com/wpuguk/events/117227082/) (there's no need to register on both) and then drop me a line to say that you want to participate.
 
 Of course if you want to come along and see what app others have created then please do. Just register so we know how many to expect. Thanks.

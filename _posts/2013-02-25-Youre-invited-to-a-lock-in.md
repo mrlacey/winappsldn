@@ -11,4 +11,4 @@ With sponsorship from Microsoft, Nokia and [Foolproof](http://www.foolproof.co.u
 
 As with all hackathons, you will get the most from attending if you can stay for the whole event but this isn't a requirement.
 
-The appeal of the event means that there are, apparently, just a few spaces left so head over to [http://windowsphone8appsforkids.eventbrite.com/](http://windowsphone8appsforkids.eventbrite.com/) for more details and to register.
+The appeal of the event means that there are, apparently, just a few spaces left so head over to ~~http&#58;&#47;&#47;windowsphone8appsforkids.eventbrite.com/~~ for more details and to register.

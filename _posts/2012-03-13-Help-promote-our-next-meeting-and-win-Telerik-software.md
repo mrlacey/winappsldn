@@ -6,7 +6,7 @@ permalink: Help-promote-our-next-meeting-and-win-Telerik-software
 
 Help us spread the word about [our next meeting](https://mrlacey.github.io/winappsldn/Meeting-20%E2%80%93March-21st) and you could win **Telerik** software including their **[RadControls for Windows Phone](http://www.telerik.com/products/windows-phone.aspx).**
 
-Simply write a blog post, article, tweet or something else which encourages people to attend our next meeting and to go to [http://wpug20.eventbrite.com/](http://wpug20.eventbrite.com/) or [http://www.meetup.com/wpuguk/events/56027782/](http://www.meetup.com/wpuguk/events/56027782/) to register.  
+Simply write a blog post, article, tweet or something else which encourages people to attend our next meeting and to go to ~~http&#58;&#47;&#47;wpug20.eventbrite.com/~~ or [http://www.meetup.com/wpuguk/events/56027782/](http://www.meetup.com/wpuguk/events/56027782/) to register.  
 Then add a comment below to show what you've posted.
 
 Everyone who posts a link will be entered into a draw to win the license.
