@@ -1,6 +1,6 @@
 ---
 layout: post
-title: \#DDDHack Update \#wp7dev
+title: DDDHack Update wp7dev
 permalink: DDDHack-Update-wp7dev
 ---
 

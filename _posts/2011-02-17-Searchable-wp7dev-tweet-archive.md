@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Searchable \#wp7dev tweet archive
+title: Searchable wp7dev tweet archive
 permalink: Searchable-wp7dev-tweet-archive
 ---
 

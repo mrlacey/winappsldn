@@ -318,8 +318,8 @@ Matt Lacey: _[http://player.vimeo.com/video/28101849](http://player.vimeo.com/vi
 
 **_20th July 2011_** - One Year On  
 **Videos**:  
-[WP7Contrib](http://wp7contrib.codeplex.com/): [http://player.vimeo.com/video/26938426](http://player.vimeo.com/video/26938426)  
-[Sketchflow Template for WP7](http://wp7sketchflow.codeplex.com/): [http://player.vimeo.com/video/27000398](http://player.vimeo.com/video/27000398)  
+WP7Contrib (~~http&#58;&#47;&#47;wp7contrib.codeplex.com/~~): [http://player.vimeo.com/video/26938426](http://player.vimeo.com/video/26938426)  
+Sketchflow Template for WP7 (~~http&#58;&#47;&#47;wp7sketchflow.codeplex.com/~~): [http://player.vimeo.com/video/27000398](http://player.vimeo.com/video/27000398)  
 [Timedancer](http://www.timedancercorp.com/): [http://player.vimeo.com/video/27001911](http://player.vimeo.com/video/27001911)  
 [Senoka](https://www.facebook.com/pages/Senoka/173928099339716): [http://player.vimeo.com/video/27004489](http://player.vimeo.com/video/27004489)  
 [Traffic & Travel UK](http://trafficandtravel.net/): [http://player.vimeo.com/video/26950873](http://player.vimeo.com/video/26950873)
@@ -355,7 +355,7 @@ and [Richard Castle](http://twitter.com/richardcastle) showed us the radio strea
 > "met some great people and heard some very interesting info"
 
 **_23rd March 2011_** - with **[Sam Bourton](http://twitter.com/sambourton)** and **[Gergely Orosz](http://twitter.com/GergelyOrosz)**  
-Sam's [slides](http://www.slideshare.net/sambourton/expression-blend-for-silverlight-developers) and [code](http://pomodoob.codeplex.com/)  
+Sam's [slides](http://www.slideshare.net/sambourton/expression-blend-for-silverlight-developers) and [code ~~http&#58;&#47;&#47;pomodoob.codeplex.com/~~]  
 Gergely's [slides](http://www.slideshare.net/GergelyOrosz/windows-phone-7-real-world-performance-challenges)  
 Demo: [RunKeeper](http://social.zune.net/redirect?type=phoneApp&id=906cd463-9f34-e011-854c-00237de2db9e)
 
@@ -390,7 +390,7 @@ A number of our members gave demos of and talked about some of the applications 
 This meeting was kindly hosted by [EMC Consulting](http://uk.emc.com/services/emc-consulting.htm).
 
 **_6th October 2010_** - with **[Cortexica](http://www.cortexica.com/)** and **[Red Badger](http://red-badger.com/)**  
-[VISUALFindr](http://visualfindr.codeplex.com/) (from Cortexica)  
+VISUALFindr (~~http&#58;&#47;&#47;visualfindr.codeplex.com/~~) (from Cortexica)  
 [XPF](http://red-badger.com/Blog/post/Introducing-XPF-e28093-A-Layout-Framework-for-XNA.aspx) (from Red Badger) - [video](http://red-badger.com/Blog/post/XPF-Video-Windows-Phone-7-User-Group-Presentation.aspx)  
 Demo: [Big Give](http://www.youtube.com/watch?v=nOrNuYASGec)
 

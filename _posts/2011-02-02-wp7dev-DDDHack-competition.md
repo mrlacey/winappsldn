@@ -1,7 +1,7 @@
 ---
 layout: post
-title: \#wp7dev \#DDDHack competition
-permalink: #wp7dev #DDDHack competition
+title: wp7dev DDDHack competition
+permalink: wp7dev-DDDHack-competition
 ---
 
 To tie in with last weekend's [DDD9](http://developerdeveloperdeveloper.com/ddd9/) event, [MSDNUK](http://blogs.msdn.com/b/ukmsdn/) are holding a Windows Phone 7 development competition.

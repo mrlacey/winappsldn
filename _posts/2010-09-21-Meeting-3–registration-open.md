@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meeting \#3 – registration open
+title: Meeting 3 – registration open
 permalink: Meeting-3–registration-open
 ---
 
