@@ -6,7 +6,9 @@ permalink: multiplay-io-at-our-next-meeting
 
 On the 23rd we'll be joined by Ashraf from multiplay.io.
 
-[!["multiplay-wp8"](http://wpug.net/wp-content/uploads/2013/04/multiplay-wp8.png)To give us an idea of what we'll be talking about and what we can expect form his talk we've asked him to tell us a bit about it.
+!["multiplay-wp8"](https://mrlacey.github.io/winappsldn/images/multiplay-wp8.png)
+
+To give us an idea of what we'll be talking about and what we can expect form his talk we've asked him to tell us a bit about it.
 
 > We’ve been working between the intersection of HTML5 and native technologies developing a cross­platform 3D multiplayer games.
 > 

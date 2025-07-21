@@ -4,7 +4,7 @@ title: We’re sponsoring an event at Rough Trade
 permalink: Were-sponsoring-an-event-at-Rough-Trade
 ---
 
-[![](http://wpug.net/wp-content/uploads/2011/08/teebs_event.png "Rough Trade instore September 7th")](http://wpug.net/wp-content/uploads/2011/08/teebs_event.png)
+![Rough Trade instore September 7th](https://mrlacey.github.io/winappsldn/images/teebs_event.png)
 
 We're sponsoring an event a the Rough Trade East store on Sept 7th.  
 Not only will there be live music and free t-shirt printing courtesy of our friends at [Hit+Run](http://thehitandrun.com/) but we've doing this because we've arranged an opportunity to meet the artists performing to discuss the chance to collaborate on app development. Maybe you've got ideas on how to use their music or artwork in an app or would just be in interesting in exploring how you may be able to collaborate. Come and show them what you've made and pitch your ideas.

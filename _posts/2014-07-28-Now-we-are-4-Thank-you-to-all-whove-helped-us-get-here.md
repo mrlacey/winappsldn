@@ -6,7 +6,7 @@ permalink: Now-we-are-4-Thank-you-to-all-whove-helped-us-get-here
 
 Yes, 4 years ago today we held our first meeting. There have been 42 others since and [number 44 will be on Wednesday](http://www.meetup.com/wpuguk/events/191147522/).
 
-![cakes2_cropped](http://wpug.net/wp-content/uploads/2014/07/cakes2_cropped.jpg)
+![cakes](https://mrlacey.github.io/winappsldn/images/cakes2_cropped.jpg)
 
 While I've done most of the organisation there are many, many people who've been instrumental in making it a success. Whether that was with speaking, finding venues or helping on the day.
 

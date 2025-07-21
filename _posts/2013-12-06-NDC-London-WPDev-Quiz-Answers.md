@@ -12,10 +12,10 @@ Here, as promised are the answers, and the winners.
 First, our winners.
 
 **Liam** won the first prize of a £50 Windows Store gift card.  
-![liam](http://wpug.net/wp-content/uploads/2013/12/liam.jpg)
+![liam](https://mrlacey.github.io/winappsldn/images/liam.jpg)
 
 **Arpad** (& friend - sorry I didn't get your name) were our runners up and each won gift cards worth £15.  
-![arpad](http://wpug.net/wp-content/uploads/2013/12/arpad.jpg)
+![arpad](https://mrlacey.github.io/winappsldn/images/arpad.jpg)
 
 ## Answers:
 
@@ -30,7 +30,7 @@ First, our winners.
 ### 3\. How many different emulator images are currently available?
 
 **A: 12 -**  
-[![emulators](http://wpug.net/wp-content/uploads/2013/12/emulators.png)](http://wpug.net/wp-content/uploads/2013/12/emulators.png)**
+![emulators](https://mrlacey.github.io/winappsldn/images/emulators.png)
 
 ### 4\. What is the recommended control to use instead of ListBox?
 

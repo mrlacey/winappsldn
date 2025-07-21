@@ -6,7 +6,7 @@ permalink: Want-to-give-a-demo
 
 A major part of our meetings are the demos given by people who have released apps.
 
-If you want to demo at a future meeting (or the upcoming [WPBarCamp](http://wpug.net/wpbarcamp/)) then you might want to know what to consider when giving a demo.
+If you want to demo at a future meeting (or the upcoming [WPBarCamp](https://mrlacey.github.io/winappsldn/wpbarcamp/)) then you might want to know what to consider when giving a demo.
 
 When people give app demos we ask them to answer the following questions:
 

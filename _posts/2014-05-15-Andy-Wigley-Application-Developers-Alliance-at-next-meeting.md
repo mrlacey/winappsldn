@@ -4,7 +4,7 @@ title: Andy Wigley & Application Developers Alliance at next meeting
 permalink: Andy-Wigley-Application-Developers-Alliance-at-next-meeting
 ---
 
-![May 28](http://wpug.net/images/London-May28.png)
+![May 28](https://mrlacey.github.io/winappsldn/images/London-May28.png)
 
 Our next meeting is on May 28th and will again be at
 

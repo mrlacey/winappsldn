@@ -6,7 +6,7 @@ permalink: Nokia-wants-to-hear-from-you
 
 Updating your app benefits everyone. The more you work on it, the better the experience becomes. By extension, the people that download your apps will be happier, too, because they will see all of the work you are doing. If you’ve ever published an app to the Windows Phone Store, Nokia wants to hear from you. As part of their ongoing commitment to and support of the Windows Phone community, they want to know what you think about Windows Phone - and find out how they can help you continue to develop, update and publish apps to the platform.
 
-![Nokia](http://wpug.net/wp-content/uploads/2013/09/nokia-logo-6401-300x93.jpg)
+![Nokia](https://mrlacey.github.io/winappsldn/images/nokia-logo-6401-300x93.jpg)
 
 To take part, go to [https://surveymonkey.com/s/WPDS005](http://mrlac.eu/1aAfgvx) and complete the quick survey.
 

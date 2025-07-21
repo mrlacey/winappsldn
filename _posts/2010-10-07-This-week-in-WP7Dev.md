@@ -1,10 +1,10 @@
 ---
 layout: post
-title: This week in \#WP7Dev
+title: This week in WP7Dev
 permalink: This-week-in-WP7Dev
 ---
 
-In addition to [hosting regular meetings](http://wpug.net/meetings/), WPUG also attempts to keep you up to date on all the latest Windows Phone 7 Development news via [our twitter account](http://twitter.com/wpug).
+In addition to [hosting regular meetings](https://mrlacey.github.io/winappsldn/meetings.html), WPUG also attempts to keep you up to date on all the latest Windows Phone 7 Development news via [our twitter account](http://x.com/winappsldn).
 
 Here's a quick recap of what's been going on this week:
 

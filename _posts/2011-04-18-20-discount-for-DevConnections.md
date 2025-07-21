@@ -4,7 +4,7 @@ title: 20% discount for DevConnections
 permalink: 20-discount-for-DevConnections
 ---
 
-[![Join us at IT&DevCONNECTIONS powered by Microsoft UK to be held at the ExCeL conference centre in London 13th-15th June 2011.](http://wpug.net/wp-content/uploads/2011/04/SU11_728x90_UK_ASP.jpg "DevConnections UK 2011 Silverlight")](http://www.devconnections.com/uk)
+[![Join us at IT&DevCONNECTIONS powered by Microsoft UK to be held at the ExCeL conference centre in London 13th-15th June 2011.](https://mrlacey.github.io/winappsldn/images/SU11_728x90_UK_ASP.jpg "DevConnections UK 2011 Silverlight")](http://www.devconnections.com/uk)
 
 Good news: get a 20% discount for IT&DevConnections courtesy of WPUG. - Just use discount code **UG227** when registering.
 

@@ -4,7 +4,7 @@ title: Return of the Reward Programme for UK Developers
 permalink: Return-of-the-Reward-Programme-for-UK-Developers
 ---
 
-![UK Developer Rewards Programme](http://wpug.net/wp-content/uploads/2011/11/image002.jpg)
+![UK Developer Rewards Programme](https://mrlacey.github.io/winappsldn/images/image002.jpg)
 
 In case any of you were not aware of this:
 

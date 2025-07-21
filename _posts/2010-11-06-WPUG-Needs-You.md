@@ -11,7 +11,7 @@ Having a person (or persons) give a talk from the front can be a great way to le
 That's why with our next meeting ([on November 30th at EMC](http://wpug4.eventbrite.com/)) we're going to do something different. It's just going to be demos!
 
 This is why **WE NEED YOU!**  
-[![Point!](http://farm2.static.flickr.com/1339/1448178195_bff4bcd6c2.jpg)](http://www.flickr.com/photos/a2gemma/1448178195/ "Point! by a2gemma, on Flickr")
+![Point! by a2gemma, on Flickr](http://farm2.static.flickr.com/1339/1448178195_bff4bcd6c2.jpg)]
 
 One, often overlooked, but, very important part of user groups is the community of people who have a shared interest. In our case it's an interest in developing great Windows Phone 7 apps. For this to work, for our community to grow and us to not just be a group of people who's common interest is sitting and listening to the same talks, requires more than just coming along to meetings and listening. It needs people (you?) to be prepared to get up and talk about their experiences.
 
@@ -19,7 +19,7 @@ It doesn't matter if your app is finished. It doesn't matter if it's released ye
 
 We're hoping that in addition to just showing your app you'll also share a little of what you learnt in the process and any specific issues you had to overcome.
 
-You can talk for between 5 and 20 minutes depending on what suits you. But if you want a longer period we hope that because you've got lots of lessons to share. Please get in contact via [email](mailto:info@wpug.net) or [twitter](http://twitter.com/wpug) if you would like to talk about your app.
+You can talk for between 5 and 20 minutes depending on what suits you. But if you want a longer period we hope that because you've got lots of lessons to share. Please get in contact via ~~email~~ or [twitter](http://x.com/winappsldn) if you would like to talk about your app.
 
 Of course we're not going to force people to talk if they don't want to or aren't allowed to talk about what they've been working on (for whatever reason). So please come along even if you just want to listen. ;)
 

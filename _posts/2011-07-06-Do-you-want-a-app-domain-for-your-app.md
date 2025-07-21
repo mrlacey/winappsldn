@@ -18,4 +18,4 @@ Well, if you ever think you might want a .app domain and don't want to have to p
 
 **What can you do?**
 
-Head on over to the [website](http://dotappapp.com/) and register you interest then follow them on twitter at [@dotappapp](http://twitter.com/#!/dotappapp).
+Head on over to the [website](http://dotappapp.com/) and register you interest then follow them on twitter at [@dotappapp](http://twitter.com/dotappapp).

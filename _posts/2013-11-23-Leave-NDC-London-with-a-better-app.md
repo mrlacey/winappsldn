@@ -29,10 +29,10 @@ Not sure what he can do for you? Here are some comments from others who have had
 
 \- Jay Bennett, [WPCentral](http://www.windowsphone.com/s?appid=e6c3c78a-4382-e011-986b-78e7d1fa76f8)
 
-You can also find some, anonymized, examples of specific [feedback he's previously provided on his blog](http://blog.mrlacey.co.uk/search?q=feedback).
+You can also find some, anonymized, examples of specific [feedback he's previously provided on his blog](http://mrlacey.com/search?q=feedback).
 
-Spaces are limited and are available to those who respond first. Please [get in touch](mailto:info@wpug.net "info [at] wpug [dot] net") if you are interested.
+Spaces are limited and are available to those who respond first. Please ~~get in touch~~ if you are interested.
 
 **What do we want from you in return?**
 
-We'd like you to share your experience of the consultation. Initially that can be a quote summarizing your thoughts on the experience. If you end up with an app you'd like to show off to a wider audience we'd love to hear more about your app at a future [meeting](http://wpug.net/meetings) too.
+We'd like you to share your experience of the consultation. Initially that can be a quote summarizing your thoughts on the experience. If you end up with an app you'd like to show off to a wider audience we'd love to hear more about your app at a future [meeting](https://mrlacey.github.io/winappsldn/meetings.html) too.

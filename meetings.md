@@ -258,7 +258,7 @@ _Richard Castle_ ([@igneoussoftware](http://twitter.com/igneoussoftware)) - [vi
 > "really appreciate the effort put into the event, great to meet everyone"
 
 **19th May 2012**  
-[WPBarCamp](http://wpug.net/wpbarcamp/)
+[WPBarCamp](https://mrlacey.github.io/winappsldn/wpbarcamp/)
 
 **18th April 2012**  
 Lawrence Gripper and Chris Sienkiewicz ([@lawrencegripper](http://twitter.com/lawrencegripper) & [@Chiser99](https://twitter.com/Chiser99)) on [Square](http://windowsphone.com/s?appId=a1891b7f-c286-4c63-8209-7f507fa7196e) - [video](http://vimeo.com/40927390)  
@@ -402,6 +402,6 @@ Demo: [CycleHubs](http://www.cyclehubs.com/)
 > "great to hear dev thoughts & experiences & see some interesting apps demo'ed"
 
 **_28th July 2010_** - with **[Paul Foster](http://wotudo.net/)** and **[Rob Fonseca-Ensor](http://www.robfe.com/)  
-**Rob's [slides](http://wpug.net/assets/XNA%20for%20WP7.pptx) & [code](http://wpug.net/assets/Game1.cs)  
+**Rob's [slides](https://mrlacey.github.io/winappsldn/assets/XNA%20for%20WP7.pptx) & [code](https://mrlacey.github.io/winappsldn/assets/Game1.cs)  
 Demos: [Skillbook](http://www.youtube.com/watch?v=7UMp2jnAWNA) | [London tube](http://www.youtube.com/watch?v=Yz-a9cUO8Hw) | [ICE](http://www.youtube.com/watch?v=7r1Ljgy8xsQ) | [cryoDefense](http://www.youtube.com/watch?v=hEzE1ugrFQw)  
 This meeting was kindly hosted by [EMC Consulting](http://uk.emc.com/services/emc-consulting.htm).

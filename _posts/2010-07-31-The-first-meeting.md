@@ -6,17 +6,17 @@ permalink: The-first-meeting
 
 Wednesday (July 28th) saw our inaurgral meeting, which was kindly hosted by [EMC Consulting](http://uk.emc.com/services/emc-consulting.htm).
 
-![the empty room](http://wpug.net/images/DSC02553.JPG "the empty room")
+![the empty room](https://mrlacey.github.io/winappsldn/images/DSC02553.JPG "the empty room")
 
 On arrival, everyone was greeted with a beer or soft drink (again courtesy of EMC) and donuts:
 
-![mmm donuts!](http://wpug.net/images/DSC02555.JPG "mmm donuts!")  
+![mmm donuts!](https://mrlacey.github.io/winappsldn/images/DSC02555.JPG "mmm donuts!")  
 And here's a disappointingly blurry picture of a room full of people  
-![Full house](http://wpug.net/images/DSC02557.JPG "Full house")
+![Full house](https://mrlacey.github.io/winappsldn/images/DSC02557.JPG "Full house")
 
 We started the evening with a presentation by [Rob Fonseca-Ensor](http://twitter.com/robfe) on XNA development in WP7.
 
-A copy of the code from his demo [is also available](http://wpug.net/assets/Game1.cs).
+A copy of the code from his demo [is also available](https://mrlacey.github.io/winappsldn/assets/Game1.cs).
 
 Between the longer presentations 5 people got up to give 5 minute demonstrations of applicaitons that they are developing.
 

@@ -6,7 +6,7 @@ permalink: WPUG-at-NDCLondon
 
 This coming week (2-6 Dec) sees [NDC come to London](http://www.ndc-london.com/). Over the week there are a [wide range of sessions](http://ndclondon.oktaset.com/Agenda/wednesday) and [tickets are still available](http://www.ndc-london.com/tickets_for_ndc_london).
 
-[We](http://wpug.net/) will be there on all the session days and you'll find us in the community area. Come by and talk all things Windows Phone. :)
+We will be there on all the session days and you'll find us in the community area. Come by and talk all things Windows Phone. :)
 
 In the community area you'll find a range of groups covering a breadth of subjects and interests. They'll be organising and hosting a number of events between the main sessions, including quizzes and short talks.
 
