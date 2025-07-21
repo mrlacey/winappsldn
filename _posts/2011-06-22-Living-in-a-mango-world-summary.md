@@ -28,13 +28,13 @@ After a short break, [Paul](http://twitter.com/pauliharman) and Ben from [LedaEn
 
 > "Awesome evening at the @WPUG meetup, met some great people and heard some very interesting info! Thanks all!" - [roybott](http://twitter.com/Roybott/status/83673530495016962)
 
-Andrew Fraser shared some of his experiences around translating/localizing apps as well as text to speech and speech to text conversions that were part of several projects including [Free Wikipedia Viewer](http://social.zune.net/redirect?type=phoneApp&id=3a50d92c-3205-e011-9264-00237de2db9e). He also pointed us to [http://wp7resxlocgenerator.codeplex.com/](http://wp7resxlocgenerator.codeplex.com/)
+Andrew Fraser shared some of his experiences around translating/localizing apps as well as text to speech and speech to text conversions that were part of several projects including [Free Wikipedia Viewer](http://social.zune.net/redirect?type=phoneApp&id=3a50d92c-3205-e011-9264-00237de2db9e). He also pointed us to ~~http&#58;&#47;&#47;wp7resxlocgenerator.codeplex.com/~~
 
 To finish the evening [James Mundy](http://twitter.com/Mendzapp) gave us a demo of [Travelnapp](http://ow.ly/5esOv)
 
 The evening didn't end there though. Many of us stayed to chat and share development tips, tricks and experiences late into the night.
 
-Unfortunately we had a bit of noise coming down from the band playing upstairs but the presenters all coped marvellously. We will be doing everything we can to prevent this affecting us at future events.
+Unfortunately we had a bit of noise coming down from the band playing upstairs but the presenters all coped marvelously. We will be doing everything we can to prevent this affecting us at future events.
 
 > "Had a good time with @Andy\_Gore, @ngmagill, @lookitskris, @keyboardP (very briefly), @kudresov and the @verysoftware guys at tonight's @wpug" - [GergelyOrosz](http://twitter.com/GergelyOrosz/status/83659043012489216)
 

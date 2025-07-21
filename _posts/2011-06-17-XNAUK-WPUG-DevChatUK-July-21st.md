@@ -16,4 +16,4 @@ We’re going to hijack the twitter hashtag #DevChatUK and do a wide scale Q&A /
 
 So come join in, publicise your current projects, lets us know who you are or just come and get info on what all this noise is about with online help from the experts in the field.
 
-We recommend using a web service like [http://tweetchat.com/](http://tweetchat.com/) and enter the HashTag #DevChatUK to join in the fun.
+We recommend using a web service like ~~http&#58;&#47;&#47;tweetchat.com/~~ and enter the HashTag #DevChatUK to join in the fun.

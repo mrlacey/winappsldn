@@ -94,7 +94,7 @@ So, **in no particular order**:
 [Windows Phone Local Database tip: Exploring INSERT performance–5 power tweaks](http://erikej.blogspot.com/2011/12/windows-phone-local-database-tip.html)  
 [Windows Azure Storage Client Library for Windows Phone: Part 1](http://mobile.dzone.com/articles/windows-azure-storage-client)  
 [7 Deadly Sins for … Windows Phone Developers !](http://samidipbasu.com/2012/01/29/7-deadly-sins-for-wpdev/)  
-[PhoneCore Framework: a framework for building of WP7 applications](http://phonecore.codeplex.com/)  
+PhoneCore Framework: a framework for building of WP7 applications (~~http&#58;&#47;&#47;phonecore.codeplex.com/~~)  
 [Getting latest Tweets in Windows Phone apps using Twitter REST API and JSON.NET](http://windowsphonegeek.com/articles/Getting-latest-Tweets-in-Windows-Phone-apps-using-Twitter-REST-API-and-JSON-NET)  
 [How to get the Tapped Item in a MultiselectList control](http://windowsphonegeek.com/articles/How-to-get-the-Tapped-Item-in-a-MultiselectList-control)  
 [Getting Started with Coding4Fun Button Controls](http://windowsphonegeek.com/articles/Getting-Started-with-Coding4Fun-Button-Controls)  

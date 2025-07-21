@@ -203,14 +203,14 @@ Nimbletank: ASOS Daily Edit ([store link](http://www.windowsphone.com/s?appid=53
 
 **23rd July 2013** \[Sorry, no videos available\]  
 UICentric: design ([http://www.uicentric.com/](http://www.uicentric.com/))  
-Glynn Jones: Scoopt ([http://scoopt.com/](http://scoopt.com/))
+Glynn Jones: Scoopt (~~http&#58;&#47;&#47;scoopt.com/~~)
 
 **18th July 2013** \[Sorry, no videos available\]  
 Gill Cleeren: Windows Phone 8 apps and the outside world: working with data in a WP8 app ([@gillcleeren](http://twitter.com/gillcleeren))
 
 **19th June 2013** \[Sorry, no videos available\]  
 Iris Classon: Advanced features for WP8 ([@irisclasson](http://twitter.com/irisclasson))  
-David Hamilton: Pepper ([http://www.pepper-app.com/](http://www.pepper-app.com/))
+David Hamilton: Pepper (~~http&#58;&#47;&#47;www.pepper-app.com/~~)
 
 **20th May 2013** \[Sorry, no videos available\]  
 Pedro Lamas: Nokia Music ([@pedrolamas](http://twitter.com/pedrolamas))

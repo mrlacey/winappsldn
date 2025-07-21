@@ -4,9 +4,9 @@ title: How to get to Modern Jago
 permalink: How-to-get-to-Modern-Jago
 ---
 
-Our next few meetings will be at Microsoft's new [Modern Jago](http://modernjago.co.uk/) space in Shoreditch.
+Our next few meetings will be at Microsoft's new Modern Jago (~~http&#58;&#47;&#47;modernjago.co.uk/~~) space in Shoreditch.
 
-You'll find a map at [http://modernjago.co.uk/find/](http://modernjago.co.uk/find/) but unfortunately it's not the easiest place in the world to find. _(Sorry those of you who had difficulty previously.)_
+You'll find a map at ~~http&#58;&#47;&#47;modernjago.co.uk/find/~~ but unfortunately it's not the easiest place in the world to find. _(Sorry those of you who had difficulty previously.)_
 
 If you need them, here are some directions:
 
