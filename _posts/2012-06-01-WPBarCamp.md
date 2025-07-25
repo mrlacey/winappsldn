@@ -1,6 +1,6 @@
 ---
 layout: post
-title: \#WPBarCamp
+title: WPBarCamp
 permalink: wpbarcamp
 ---
 
