@@ -18,6 +18,6 @@ To give us an idea of what we'll be talking about and what we can expect form hi
 
 The talk will be aimed at beginners with the platform and no prior knowledge is assumed.
 
-If you want to know more in advance, check out [http://multiplay.io/](http://multiplay.io) or [http://blog.softwareispoetry.com/](http://blog.softwareispoetry.com/)
+If you want to know more in advance, check out~~http&#58;&#47;&#47;multiplay.io~~ or ~~http&#58;&#47;&#47;blog.softwareispoetry.com/~~
 
-If you'd like to come (it's **free**) then please register at either ~~http&#58;&#47;&#47;wpug30.eventbrite.com/~~ OR [meetup.com](http://www.meetup.com/wpuguk/events/112322872/). (Having an idea of how many people are coming helps us prepare appropriately-i.e. get enough beer in.)
+If you'd like to come (it's **free**) then please register at either ~~http&#58;&#47;&#47;wpug30.eventbrite.com/~~ OR ~~http&#58;&#47;&#47;www.meetup.com/wpuguk/events/112322872/~~. (Having an idea of how many people are coming helps us prepare appropriately-i.e. get enough beer in.)

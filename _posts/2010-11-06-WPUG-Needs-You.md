@@ -23,7 +23,7 @@ You can talk for between 5 and 20 minutes depending on what suits you. But if yo
 
 Of course we're not going to force people to talk if they don't want to or aren't allowed to talk about what they've been working on (for whatever reason). So please come along even if you just want to listen. ;)
 
-Thanks to Microsoft, we were able to invite everyone who has spoken or demoed at previous meetings to the official WP7 developer party. ([Dave Hawes created a video blog about it.](http://blog.davehawes.com/post/2010/10/26/I-got-to-go-to-the-real-Windows-Phone-7-launch-party!.aspx))  
+Thanks to Microsoft, we were able to invite everyone who has spoken or demoed at previous meetings to the official WP7 developer party. (Dave Hawes created a video blog about it. ~~http&#58;&#47;&#47;blog.davehawes.com/post/2010/10/26/I-got-to-go-to-the-real-Windows-Phone-7-launch-party!.aspx~~)  
 Unfortunately we can't promise the same for everyone who gives a demo this time. We will however have some swag available for all who give demos plus we'll have a new slim line XBox to give away to the demo which is voted as the audience's favourite.
 
 As is tradition, we'll also head to a nearby pub afterwards to continue the discussions.

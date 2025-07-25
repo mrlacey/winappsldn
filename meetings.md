@@ -149,7 +149,7 @@ Xamarin Re-Evolved and porting from Windows Phone
 A look at preparing for Windows 10, C# 6.0 and Visual Studio 2015
 
 **29th October 2014**  
-Joint event with [AppChat](http://appchat.us/)
+Joint event with AppChat (~~http&#58;&#47;&#47;appchat.us/~~)
 
 **24th September 2014**  
 Matteo Emili: VSO Application Insights \[[slides](https://mrlacey.github.io/winappsldn/assets/AppInsights.pptx)\]  
@@ -369,7 +369,7 @@ This meeting was kindly supported by [Sequence](http://www.sequence.co.uk/).
 
 **_9th February 2011_** - **Designing for Windows Phone 7 (with Matchbox Mobile)**  
 **[James Morse](http://twitter.com/parlando)** (from [Matchbox Mobile](http://www.matchboxmobile.com/)) talked about Designing for Windows Phone 7.  
-**Johan van Staden** shared some of his experiences getting started with creating an application. See also a related post on [his blog](http://consultingblogs.emc.com/johanvanstaden/archive/2010/12/22/wp7-discovering-as-we-go.aspx).  
+**Johan van Staden** shared some of his experiences getting started with creating an application. See also a related post on ~~http&#58;&#47;&#47;consultingblogs.emc.com/johanvanstaden/archive/2010/12/22/wp7-discovering-as-we-go.aspx~~.  
 **Paul Marsh** talked about his [keyboard helper behaviors](http://pauliom.wordpress.com/2010/09/05/wp7-keyboard-helper-as-a-behavior/).
 
 **_27th January 2011_**  

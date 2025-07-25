@@ -8,7 +8,7 @@ In addition to [hosting regular meetings](https://mrlacey.github.io/winappsldn/m
 
 Here's a quick recap of what's been going on this week:
 
-* [INETA recognises it's first group focused on Windows Phone!](http://bit.ly/c7KsgJ)
+* INETA recognises it's first group focused on Windows Phone! (~~http&#58;&#47;&#47;europe.ineta.org/UserGroups/Browse/tabid/166/ctl/Details/mid/602/gid/2908/Default.aspx~~)
 * [Windows Phone 7 to rival iPad for developer attention in 2011](http://bit.ly/aY6PNW)
 * [How I made the ‘myChannel' wp7 app (source code included) – Part 1](http://bit.ly/9xz4sA)
 * [WP7 Screenshot Tool](http://bit.ly/bNZBSf)

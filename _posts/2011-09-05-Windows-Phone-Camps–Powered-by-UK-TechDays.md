@@ -33,12 +33,12 @@ Your luck's in - it's free.
 
 **_What do I need to prepare in advance to make the most of this camp?_**
 
-There are a basic set of things you should prepare before attending the camp. This includes bringing your own suitable laptop with the [Windows Phone Developer tools](http://create.msdn.com/en-gb/?ocid=otc-n-gb-Non-loc--) installed (these are free), preferably the latest version of the tools.
+There are a basic set of things you should prepare before attending the camp. This includes bringing your own suitable laptop with the Windows Phone Developer tools (~~http&#58;&#47;&#47;create.msdn.com/en-gb/?ocid=otc-n-gb-Non-loc--~~) installed (these are free), preferably the latest version of the tools.
 
 It would also be useful if you could read the following documentation:
 
-* [Getting Started with Windows Phone Development](http://msdn.microsoft.com/en-gb/library/ff402529(v=VS.92).aspx?ocid=otc-n-gb-Non-loc--)
-* [User Experience Design Guidelines for Windows Phone](http://msdn.microsoft.com/en-gb/library/hh202915(v=VS.92).aspx?ocid=otc-n-gb-Non-loc--)
+* Getting Started with Windows Phone Development (~~http&#58;&#47;&#47;msdn.microsoft.com/en-gb/library/ff402529(v=VS.92).aspx--~~)
+* User Experience Design Guidelines for Windows Phone (~~http&#58;&#47;&#47;msdn.microsoft.com/en-gb/library/hh202915(v=VS.92).aspx~~)
 
 If you have a Windows Phone please bring it with you.
 
@@ -50,7 +50,7 @@ Yes, this is a series of Windows Phone Camps kicking off around the country. Fol
 
 Please let us know as soon as you can if you can't make the camp as there will be plenty of people who are keen to take your spot. Please respect the trainers and your fellow delegates by turning up if you've registered and committed. Thanks!
 
-**_Who are_** [**_Hit & Run_**](http://www.thehitandrun.com/index.html)**_?_**
+**_Who are_** [**_Hit & Run_**](http://www.thehitandrun.com/)**_?_**
 
 They're do cool live on-site event screen-printing. You'll get the chance to create your very own t-shirt with your unique design at the end of the camp.
 
@@ -60,6 +60,6 @@ In the spirit of highlighting good design, we intend to provide each attendee wi
 
 Register at the event of your choice below. Go on. You know you want to.
 
-[London - Saturday 17 September](https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032492888&Culture=en-GB)
+London - Saturday 17 September (~~http&#58;&#47;&#47;msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032492888&Culture=en-GB~~)
 
-[Manchester - Saturday 24 September](https://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032492906&Culture=en-GB)
+Manchester - Saturday 24 September (~~http&#58;&#47;&#47;msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032492906&Culture=en-GB~~)

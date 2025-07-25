@@ -42,7 +42,7 @@ The hope and intention is that future meetings will have the same format. We're 
 Other blog posts about the event can be found at:
 
 > [http://mikehole.com/2010/07/28/windows-phone-7-starting-out/](http://mikehole.com/2010/07/28/windows-phone-7-starting-out/)  
-> [http://blog.davehawes.com/post/2010/07/29/Going-to-the-first-Windows-Phone-7-(WP7)-user-group.aspx](http://blog.davehawes.com/post/2010/07/29/Going-to-the-first-Windows-Phone-7-(WP7)-user-group.aspx)  
+> ~~http&#58;&#47;&#47;blog.davehawes.com/post/2010/07/29/Going-to-the-first-Windows-Phone-7-(WP7)-user-group.aspx~~  
 > [http://social.msdn.microsoft.com/Forums/en-US/windowsphone7series/thread/5382336f-ffc1-4cee-aa33-39535b901706](http://social.msdn.microsoft.com/Forums/en-US/windowsphone7series/thread/5382336f-ffc1-4cee-aa33-39535b901706)  
 > [http://phone7.wordpress.com/2010/07/30/the-first-windows-phone-7-user-group/](http://phone7.wordpress.com/2010/07/30/the-first-windows-phone-7-user-group/)  
 > [http://consultingblogs.emc.com/michelleflynn/archive/2010/07/29/windows-phone-user-group.aspx](http://consultingblogs.emc.com/michelleflynn/archive/2010/07/29/windows-phone-user-group.aspx)
