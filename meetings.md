@@ -394,9 +394,9 @@ VISUALFindr (~~http&#58;&#47;&#47;visualfindr.codeplex.com/~~) (from Cortexica)
 [XPF](http://red-badger.com/Blog/post/Introducing-XPF-e28093-A-Layout-Framework-for-XNA.aspx) (from Red Badger) - [video](http://red-badger.com/Blog/post/XPF-Video-Windows-Phone-7-User-Group-Presentation.aspx)  
 Demo: [Big Give](http://www.youtube.com/watch?v=nOrNuYASGec)
 
-**_25th August 2010_** - with **[Matt Lacey](http://blog.mrlacey.co.uk/)** and **[Mike Ormond](http://blogs.msdn.com/b/mikeormond/)**  
+**_25th August 2010_** - with **[Matt Lacey](http://blog.mrlacey.co.uk/)** and **Mike Ormond** (~~http&#58;&#47;&#47;blogs.msdn.com/b/mikeormond/~~)  
 Matt's [slides](http://www.slideshare.net/mrlacey/wp7dev-with-html-javascript)  
-Mike's [notes](http://blogs.msdn.com/b/mikeormond/archive/2010/08/26/wpug-meeting-notes.aspx)  
+Mike's notes (~~http&#58;&#47;&#47;blogs.msdn.com/b/mikeormond/archive/2010/08/26/wpug-meeting-notes.aspx~~)  
 Demo: CycleHubs (~~http&#58;&#47;&#47;www.cyclehubs.com/~~)
 
 > "great to hear dev thoughts & experiences & see some interesting apps demo'ed"

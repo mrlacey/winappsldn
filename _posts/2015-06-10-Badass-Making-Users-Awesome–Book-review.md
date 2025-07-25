@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Badass: Making Users Awesome – Book review
+title: Badass Making Users Awesome – Book review
 permalink: Badass-Making-Users-Awesome–Book-review
 ---
 
 I feel I should start by apologising to you. I was given a review copy of this book a few months ago but the fact it's taken me this long to tell you about it is something I should apologies for. You need to know about this book. And yes, I should apologies to the person who gave me the review copy too. ;)
 
-![Book Cover](http://akamaicovers.oreilly.com/images/0636920036593/lrg.jpg)
+![Book Cover](/winappsldn/images/badass-cover.jpg)
 
 This is a book about products and services but equally applies to apps. Given multiple similar apps, why are some more successful than others and what can we learn from the ones that are successful so that we can be successful too?
 

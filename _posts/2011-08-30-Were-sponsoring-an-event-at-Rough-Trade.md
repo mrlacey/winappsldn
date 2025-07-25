@@ -12,6 +12,6 @@ Not only will there be live music and free t-shirt printing courtesy of our frie
 The artists performing are:  
 • **Teebs** – a producer and artist from Los Angeles, signed to the Brainfeeder label run by Flying Lotus. Check out his facebook page at [http://www.facebook.com/teebsio](http://www.facebook.com/teebsio)  
 • **Jeremiah Jae** - an experimental Producer, Rapper, Visual Artist, and Multi-instrumentalist based out of Chicago, as well as a recording artist on Brainfeeder/ Warp Records. [http://jeremiahjae.tumblr.com/](http://jeremiahjae.tumblr.com/)  
-• **Kutmah** – a talented artist and DJ who recently held an exhibition titled “Two Soups & A Honeybun”, the full collection of 39 drawings Kutmah created in prison. [http://www.brandyflower.com/kutmah/index.html](http://www.brandyflower.com/kutmah/index.html)
+• **Kutmah** – a talented artist and DJ who recently held an exhibition titled “Two Soups & A Honeybun”, the full collection of 39 drawings Kutmah created in prison. ~~http&#58;&#47;&#47;www.brandyflower.com/kutmah/index.html~~)
 
-More event details at [http://www.roughtrade.com/site/instore.lasso](http://www.roughtrade.com/site/instore.lasso)
+More event details at ~~http&#58;&#47;&#47;www.roughtrade.com/site/instore.lasso~~

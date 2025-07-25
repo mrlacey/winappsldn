@@ -12,6 +12,6 @@ As part of the continued effort to encourage developers to build and publish app
 
 This reward programme is free to register and is open for all (including students). The developer will just need to have their own AppHub membership. So, help us spread the word and encourage your customers to developer an app for the Windows Phone marketplace this holiday season and get rewarded!!!
 
-Programme Registration - [http://www.my-rewards.com/wp](http://www.my-rewards.com/wp)
+Programme Registration - ~~http&#58;&#47;&#47;www.my-rewards.com/wp~~
 
-Frequently Asked Questions - [http://blogs.msdn.com/b/ukmsdn/archive/2011/11/10/there.aspx](http://blogs.msdn.com/b/ukmsdn/archive/2011/11/10/there.aspx)
+Frequently Asked Questions - ~~http&#58;&#47;&#47;blogs.msdn.com/b/ukmsdn/archive/2011/11/10/there.aspx~~
