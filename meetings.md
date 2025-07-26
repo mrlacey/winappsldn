@@ -258,7 +258,7 @@ _Richard Castle_ ([@igneoussoftware](http://twitter.com/igneoussoftware)) - [vi
 > "really appreciate the effort put into the event, great to meet everyone"
 
 **19th May 2012**  
-[WPBarCamp](https://mrlacey.github.io/winappsldn/wpbarcamp/)
+[WPBarCamp](https://mrlacey.github.io/winappsldn/wpbarcamp)
 
 **18th April 2012**  
 Lawrence Gripper and Chris Sienkiewicz ([@lawrencegripper](http://twitter.com/lawrencegripper) & [@Chiser99](https://twitter.com/Chiser99)) on [Square](http://windowsphone.com/s?appId=a1891b7f-c286-4c63-8209-7f507fa7196e) - [video](http://vimeo.com/40927390)  
