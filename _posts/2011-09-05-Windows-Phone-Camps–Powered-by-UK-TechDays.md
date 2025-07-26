@@ -10,7 +10,7 @@ The Windows Phone Camps will show you how to learn and build Windows Phone apps 
 
 Once you've got the basics, you’ll be off and running and ready to develop your own apps. You can work on your own projects with assistance from our Windows Phone MVPs, and of course there's the all-important opportunity to meet up with likeminded devs.
 
-The camp kicks off at 9am and finish at 6pm. By registering and attending, you will receive (fanfare please) an exclusive Windows Phone Design Guide Sketch Pad as well as your own customized [Hit & Run](http://www.thehitandrun.com/index.html) Windows Phone Camp T-shirt. Woot woot!
+The camp kicks off at 9am and finish at 6pm. By registering and attending, you will receive (fanfare please) an exclusive Windows Phone Design Guide Sketch Pad as well as your own customized [Hit & Run](http://www.thehitandrun.com/) Windows Phone Camp T-shirt. Woot woot!
 
 Spaces are limited, so register your place in the Windows Phone Camp today!
 

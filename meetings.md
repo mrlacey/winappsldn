@@ -272,7 +272,7 @@ Stuart Lodge ([@slodge](http://twitter.com/slodge)) [slides](http://www.slidesh
 ](http://vimeo.com/39019207)Gergely Orosz ([@gergelyorosz](https://twitter.com/gergelyorosz)) [app](http://windowsphone.com/s?appId=ae13c46a-eed5-4c1a-8873-160c1635bbfa) | [video](http://vimeo.com/39020007)
 
 **_28th February 2012_ - #NotAtMwc12**  
-_Colin Eberhardt_ ([@ColinEberhardt](http://twitter.com/ColinEberhardt)) [slides and code](http://www.scottlogic.co.uk/blog/colin/2012/02/slides-and-code-from-my-wpug-talk-on-phonegap/) | [video](http://vimeo.com/37787082)  
+_Colin Eberhardt_ ([@ColinEberhardt](http://twitter.com/ColinEberhardt)) slides and code (~~http&#58;&#47;&#47;www.scottlogic.co.uk/blog/colin/2012/02/slides-and-code-from-my-wpug-talk-on-phonegap/~~) | [video](http://vimeo.com/37787082)  
 _Richard Castle_ ([@igneoussoftware](http://twitter.com/igneoussoftware)) [app](http://www.windowsphone.com/en-GB/apps/3ef6362d-e553-4cfb-bf49-2046b1452afe) | [video](http://vimeo.com/37700810)  
 _Matt Lacey_ ([@mrlacey](http://twitter.com/mrlacey)) [slides](http://www.slideshare.net/mrlacey/wpsdk-711) | [video](http://vimeo.com/37701121)
 
@@ -298,12 +298,12 @@ _Matt Lacey_ ([@mrlacey](http://twitter.com/mrlacey))
 **_21st September 2011_** - Background Audio  
 **Videos:**  
 _Richard Castle:_ [http://player.vimeo.com/video/29694177](http://player.vimeo.com/video/29694177)  
-Matt Lacey: _[http://player.vimeo.com/video/29695243](http://player.vimeo.com/video/29695243)_  
+_Matt Lacey:_ [http://player.vimeo.com/video/29695243](http://player.vimeo.com/video/29695243)  
 _Dave Hawes:_ [http://player.vimeo.com/video/29696015](http://player.vimeo.com/video/29696015)  
 _Rob Lyndon:_ [http://player.vimeo.com/video/29713875](http://player.vimeo.com/video/29713875)
 
 **_13th September 2011_** - Manchester  
-_Pete Vickers_ has [blogged about this meeting](http://mobileworld.appamundi.com/blogs/petevickers/archive/2011/09/17/inaugural-meeting-of-windows-phone-user-group-north-west.aspx).
+_Pete Vickers_ has blogged about this meeting (~~http&#58;&#47;&#47;mobileworld.appamundi.com/blogs/petevickers/archive/2011/09/17/inaugural-meeting-of-windows-phone-user-group-north-west.aspx~~).
 
 **_7th September 2011_** - Cardiff #4  
 _Iestyn Jones_ talked about Mango features and _Mike Hole_ talked about the Azure Toolkit.
@@ -320,9 +320,9 @@ Matt Lacey: _[http://player.vimeo.com/video/28101849](http://player.vimeo.com/vi
 **Videos**:  
 WP7Contrib (~~http&#58;&#47;&#47;wp7contrib.codeplex.com/~~): [http://player.vimeo.com/video/26938426](http://player.vimeo.com/video/26938426)  
 Sketchflow Template for WP7 (~~http&#58;&#47;&#47;wp7sketchflow.codeplex.com/~~): [http://player.vimeo.com/video/27000398](http://player.vimeo.com/video/27000398)  
-[Timedancer](http://www.timedancercorp.com/): [http://player.vimeo.com/video/27001911](http://player.vimeo.com/video/27001911)  
+Timedancer (~~http&#58;&#47;&#47;www.timedancercorp.com/~~): [http://player.vimeo.com/video/27001911](http://player.vimeo.com/video/27001911)  
 [Senoka](https://www.facebook.com/pages/Senoka/173928099339716): [http://player.vimeo.com/video/27004489](http://player.vimeo.com/video/27004489)  
-[Traffic & Travel UK](http://trafficandtravel.net/): [http://player.vimeo.com/video/26950873](http://player.vimeo.com/video/26950873)
+Traffic & Travel UK (~~http&#58;&#47;&#47;trafficandtravel.net/~~): [http://player.vimeo.com/video/26950873](http://player.vimeo.com/video/26950873)
 
 > "We had a great time, really informative stuff, we learnt several things both from the talks and from general networking that we're going to apply to our current and forthcoming projects."
 
