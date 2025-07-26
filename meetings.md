@@ -191,7 +191,7 @@ Meeting at Nokia
 
 **30th October 2013**  
 
-[WinPhoneWeek/WPDevDay](https://www.eventbrite.co.uk/event/8105155739)
+WinPhoneWeek/WPDevDay (~~http&#58;&#47;&#47;www.eventbrite.co.uk/event/8105155739~~)
 
 > "It was very informative and enjoyable"
 
@@ -355,7 +355,7 @@ and [Richard Castle](http://twitter.com/richardcastle) showed us the radio strea
 > "met some great people and heard some very interesting info"
 
 **_23rd March 2011_** - with **[Sam Bourton](http://twitter.com/sambourton)** and **[Gergely Orosz](http://twitter.com/GergelyOrosz)**  
-Sam's [slides](http://www.slideshare.net/sambourton/expression-blend-for-silverlight-developers) and [code ~~http&#58;&#47;&#47;pomodoob.codeplex.com/~~]  
+Sam's slides (~~http&#58;&#47;&#47;www.slideshare.net/sambourton/expression-blend-for-silverlight-developers~~) and [code ~~http&#58;&#47;&#47;pomodoob.codeplex.com/~~]  
 Gergely's [slides](http://www.slideshare.net/GergelyOrosz/windows-phone-7-real-world-performance-challenges)  
 Demo: [RunKeeper](http://social.zune.net/redirect?type=phoneApp&id=906cd463-9f34-e011-854c-00237de2db9e)
 
@@ -383,15 +383,15 @@ No presentations or demos, we just went to the pub to chat about Windows Phone 7
 **_30th November 2010_** - **Demos and lessons learned**  
 A number of our members gave demos of and talked about some of the applications they have made (and released into the Marketplace). They also shared some of the lessons learned during their development experience.  
 **Matt Lacey** shared some [Gotchas when integrating with the Music and Video Hub](http://blog.mrlacey.co.uk/2011/01/gotchas-when-integrating-with-music-and.html).  
-**Neil Rees** talked about the [ITN](zune://navigate/?appID=39852892-11ca-df11-9eae-00237de2db9e) app.  
-**David Turner** talked about the [National Rail Train Travel](zune://navigate/?appID=31766c15-6bdc-df11-a844-00237de2db9e) app.  
-**Ian Griggs** talked about his [Golf Scorecard](zune://navigate/?appID=86a84532-7aea-df11-9264-00237de2db9ee) app.  
+**Neil Rees** talked about the **ITN** app (~~zune&#58;&#47;&#47;navigate/?appID=39852892-11ca-df11-9eae-00237de2db9e~~).  
+**David Turner** talked about the **National Rail Train Travel** app (~~zune&#58;&#47;&#47;navigate/?appID=31766c15-6bdc-df11-a844-00237de2db9e~~).  
+**Ian Griggs** talked about his **Golf Scorecard** app (~~zune&#58;&#47;&#47;navigate/?appID=86a84532-7aea-df11-9264-00237de2db9ee~~).  
 **Stuart Lodge** talked about porting his [Run Saturday](http://www.runningfreeonline.com/Talk/g/posts/m/16156) app to WP7.  
 This meeting was kindly hosted by [EMC Consulting](http://uk.emc.com/services/emc-consulting.htm).
 
 **_6th October 2010_** - with **Cortexica (~~http&#58;&#47;&#47;www.cortexica.com/~~)** and **[Red Badger](http://red-badger.com/)**  
 VISUALFindr (~~http&#58;&#47;&#47;visualfindr.codeplex.com/~~) (from Cortexica)  
-[XPF](http://red-badger.com/Blog/post/Introducing-XPF-e28093-A-Layout-Framework-for-XNA.aspx) (from Red Badger) - [video](http://red-badger.com/Blog/post/XPF-Video-Windows-Phone-7-User-Group-Presentation.aspx)  
+XPF (~~http&#58;&#47;&#47;red-badger.com/Blog/post/Introducing-XPF-e28093-A-Layout-Framework-for-XNA.aspx~~) (from Red Badger) - video (~~http&#58;&#47;&#47;red-badger.com/Blog/post/XPF-Video-Windows-Phone-7-User-Group-Presentation.aspx~~)  
 Demo: [Big Give](http://www.youtube.com/watch?v=nOrNuYASGec)
 
 **_25th August 2010_** - with **[Matt Lacey](http://blog.mrlacey.co.uk/)** and **Mike Ormond** (~~http&#58;&#47;&#47;blogs.msdn.com/b/mikeormond/~~)  

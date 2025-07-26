@@ -11,4 +11,4 @@ Modern Jago are hosting a series of events for those who have ideas and want hel
 
 > In a speed - matching format, developers will meet designers and designers will meet developers to find the perfect team to turn an idea into an app.
 
-Register via [http://www.eventbrite.co.uk/event/4976181894](http://www.eventbrite.co.uk/event/4976181894)
+Register via ~~http&#58;&#47;&#47;www.eventbrite.co.uk/event/4976181894~~
