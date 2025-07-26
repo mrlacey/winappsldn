@@ -28,6 +28,6 @@ During the day the apps that were submitted (either as updates or new apps) are:
 | ![Relative History](http://cdn.marketplaceimages.windowsphone.com/v8/images/58b77853-5d98-44da-bf69-4b9002131177?imageType=ws_icon_tiny) | [for Windows](http://apps.microsoft.com/windows/en-us/app/relative-history/524509e3-b8db-4456-8f89-0f96567734f3)  <br>[and Windows Phone](http://www.windowsphone.com/en-gb/store/app/relative-history/51bf305b-2a6f-4fb6-bf77-297ee902e59c) |
 | ![UV](http://cdn.marketplaceimages.windowsphone.com/v8/images/654941c6-8362-4b68-8ff1-072b54980206?imageType=ws_icon_tiny) | [for Windows Phone](http://www.windowsphone.com/en-gb/store/app/uv/b4b91fe5-3770-4043-967d-c8985b19e1eb) |
 
-If you want to find out more, [Jay has written a blog post about the day](http://www.jayonwindows.com/submit-it-a-hackathon-co-hosted-by-ui-centric-and-windows-apps-london/) and there are lots of pictures on [meetup](http://www.meetup.com/wpuguk/photos/26068204/).
+If you want to find out more, Jay has written a blog post about the day (~~http&#58;&#47;&#47;www.jayonwindows.com/submit-it-a-hackathon-co-hosted-by-ui-centric-and-windows-apps-london/~~) and there are lots of pictures on [meetup](http://www.meetup.com/wpuguk/photos/26068204/).
 
 As the day proved so popular we'll probably do something similar again.

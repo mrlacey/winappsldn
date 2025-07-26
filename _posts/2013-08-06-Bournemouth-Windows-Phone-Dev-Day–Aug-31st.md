@@ -8,6 +8,6 @@ Our friends, [Scott](https://twitter.com/scottisafool) & [Dan](https://twitter.
 
 A couple of speakers have already been announced and there are more announcements coming soon.
 
-Full details at [http://wpdd.moov2.com/](http://wpdd.moov2.com/) or follow them on [Twitter](https://twitter.com/wpddbmth).
+Full details at ~~http&#58;&#47;&#47;wpdd.moov2.com/~~ or follow them on [Twitter](https://twitter.com/wpddbmth).
 
 See you there.

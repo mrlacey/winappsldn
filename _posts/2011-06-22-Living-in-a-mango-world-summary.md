@@ -12,7 +12,7 @@ About 40 of us filled the basement of our regular venue ([Juno bar in Shoreditch
 
 This month we heard from a number of people demoing apps they had made plus sharing some of the lessons learnt in their creation and their plans for new updates and features using the Mango tools.
 
-First up was [Mark Rendle](http://twitter.com/markrendle) who showed [Pocket C#](http://social.zune.net/redirect?type=phoneApp&id=2f840483-0a54-e011-854c-00237de2db9e). This was one of the [winners of RedGate's WP7Comp](http://wp7comp.posterous.com/red-gate-softwares-windows-phone-7-competitio).
+First up was [Mark Rendle](http://twitter.com/markrendle) who showed [Pocket C#](http://social.zune.net/redirect?type=phoneApp&id=2f840483-0a54-e011-854c-00237de2db9e). This was one of the winners of RedGate's WP7Comp (~~http&#58;&#47;&#47;wp7comp.posterous.com/red-gate-softwares-windows-phone-7-competitio~~).
 
 > "Good time at @wpug! Big thanks to @mrlacey for organising and to all WPUGees! See you next month!" - [verysoftware](http://twitter.com/verysoftware/status/83681619487113216)
 
