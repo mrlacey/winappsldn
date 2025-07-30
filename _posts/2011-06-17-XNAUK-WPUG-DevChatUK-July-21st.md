@@ -4,9 +4,9 @@ title: XNAUK + WPUG = DevChatUK (July 21st)
 permalink: XNAUK-WPUG-DevChatUK-July-21st
 ---
 
-![XNA-UK](/winappsldn/images/xna-uk.jpg "XNA-UK") + ![WPUG](http://4.bp.blogspot.com/-G0my9rhEmy0/TfvS17v8FQI/AAAAAAAAATo/LAwyYWayVEI/s1600/phone.png "WPUG")
+![XNA-UK](/winappsldn/images/xna-uk.jpg "XNA-UK") + ![WPUG](/winappsldn/images/phone.png "WPUG")
 
-Come join both the [XNA-UK](http://xna-uk.net/) and Windows Phone User groups for a mad bash twitter evening in a DevChat style Mashup on:
+Come join both the XNA-UK (~~http&#58;&#47;&#47;xna-uk.net/~~) and Windows Phone User groups for a mad bash twitter evening in a DevChat style Mashup on:
 
 ## Thursday 21st July  
 7 – 9 PM UK time  

@@ -6,7 +6,6 @@ permalink: Prototyping-Windows-Phone-8-Applications-with-Axure
 
 On October 21st the new [London Axure Meetup group](http://www.meetup.com/Axure-London-Meetup/) are having a meeting with a focus on prototyping for Windows Phone 8.
 
-![Axure](http://archiv.iakonferenz.org/sites/default/files/axure-logo-iak11.png?1305578606)
 
 More details and registration at [http://www.meetup.com/Axure-London-Meetup/events/138722292/](http://www.meetup.com/Axure-London-Meetup/events/138722292/)
 

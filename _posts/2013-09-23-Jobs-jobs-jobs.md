@@ -10,7 +10,7 @@ We're also aware that more and more companies are looking to recruit people to w
 
 Previously we've done this on an ad hoc basis but as demand is increasing we've opted for a more structured approach.
 
-[![Situation vacant](http://farm4.staticflickr.com/3046/3060094943_b49c91f936_m.jpg)](http://www.flickr.com/photos/invisible-lens/3060094943/ "Job Vacancy in RED ? TRUE by Invisible Lens Photography, on Flickr")
+![Situation vacant - Job Vacancy in RED ? TRUE by Invisible Lens Photography, on Flickr - http://www.flickr.com/photos/invisible-lens/3060094943/"](/winappsldn/images/3060094943_b49c91f936_m.jpg)
 
 You can now see all the job vacancies we're aware of (like this one ~~http&#58;&#47;&#47;wpug.net/jobs/view/windows-phone-developers-c-metro-html5/~~) on our website.
 

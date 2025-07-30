@@ -4,8 +4,6 @@ title: WP Dev Week (err month) in London
 permalink: WP-Dev-Week-err-month-in-London
 ---
 
-![](https://az118040.vo.msecnd.net/assets/8607764811fc4f72b7d063c6296e28a3/windows-phone-banner.png)
-
 You may have heard that some Windows Phone Development MVPs around the world are running community led Windows Phone development training days in October. (Originally they were all going to be in the same week but the number of events has grown to fill the whole month.)
 
 See the full list of events at ~~http&#58;&#47;&#47;wpcommunityweek.eventday.com/~~

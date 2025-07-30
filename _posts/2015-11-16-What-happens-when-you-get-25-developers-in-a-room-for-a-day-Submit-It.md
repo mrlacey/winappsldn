@@ -4,7 +4,7 @@ title: What happens when you get 25 developers in a room for a day? (Submit-It!)
 permalink: What-happens-when-you-get-25-developers-in-a-room-for-a-day-Submit-It
 ---
 
-![Submit-It! attendees](http://photos2.meetupstatic.com/photos/event/8/5/c/4/600_444154244.jpeg)
+![Submit-It! attendees](/winappsldn/images/600_444154244.jpg)
 
 A. They submit 25 apps to the store.
 

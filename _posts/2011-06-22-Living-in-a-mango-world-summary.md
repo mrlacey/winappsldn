@@ -6,7 +6,7 @@ permalink: Living-in-a-mango-world-summary
 
 Last night was the 11th meeting of the Windows Phone User Group and it was another successful event.
 
-[![Matt gives the intro](https://mrlacey.github.io/winappsldn/images/328049364.jpg)](http://twitpic.com/5fb8ic)
+![Matt gives the intro](https://mrlacey.github.io/winappsldn/images/328049364.jpg)
 
 About 40 of us filled the basement of our regular venue ([Juno bar in Shoreditch](http://www.junoshoreditch.co.uk/)) to talk [#WP7Dev](http://twitter.com/search/%23wp7dev).
 

@@ -9,7 +9,7 @@ value cards on mobiles and even custom software for chip and pin terminals. Mor
 All in all it's fair to say I have an interest and background in working with mobile payment solutions.  
 When I first heard about this book I became very interested. Mobile payment and money transfer is an area which I expect to grow considerably in the next few years and the recent announcements by Apple, with the iPhone 6, will only help fuel interest in this area and speed up growth.
 
-[![](http://2.bp.blogspot.com/-EWtqyyL-eWc/VDuVGhISReI/AAAAAAAAAys/-2HC6uPaKV0/s1600/designing-mob-pay-exp.gif)](http://shop.oreilly.com/product/0636920029816.do)
+[![Designing Mobile Payment Experiences - book cover](/winappsldn/images/designing-mob-pay-exp.gif)](http://shop.oreilly.com/product/0636920029816.do)
 
 The book is relatively short at just 7 chapters and a little over 200 pages but it's packed with useful information.
 
