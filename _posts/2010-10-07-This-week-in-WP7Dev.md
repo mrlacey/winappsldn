@@ -15,7 +15,7 @@ Here's a quick recap of what's been going on this week:
 * [Tips for debugging WP7 media apps with WPConnect](http://bit.ly/cHh3ln)
 * [A detailed overview of the Windows Phone Toolkit's ListPicker control](http://bit.ly/cccPCM)
 * [WP7 News Update: Windows Phone Design Team joining the conversation](http://ow.ly/19MXjn)
-* [ironRuby now includes Windows Phone 7 support](http://bit.ly/c94UCN)
+* ironRuby now includes Windows Phone 7 support (~~http&#58;&#47;&#47;ironruby.codeplex.com/releases/view/49097~~)
 * [UI vs. Compositor – Demystifying the main Windows Phone 7 OS threads](http://bit.ly/aYocQj)
 * [WP7 Serialization Comparison](http://bit.ly/9EBS9Y)
 * [Running a Windows Phone Application under the lock screen](http://bit.ly/aWiNjy)

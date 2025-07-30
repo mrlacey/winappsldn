@@ -16,6 +16,6 @@ Things you may have missed since the last meeting:
 
 **Slides**
 
-* [Mike](http://sdrv.ms/1c5aB3B)
+* Mike (~~http&#58;&#47;&#47;sdrv.ms/1c5aB3B~~)
 * [Sandra](http://www.slideshare.net/SandraSears/nokia-presentation-finalig)
 * [Jay](https://skydrive.live.com/redir?resid=33AB03F0B0091FCB!30541&authkey=!AKz0EaciJSl8Jrw&ithint=file%2c.pptx)

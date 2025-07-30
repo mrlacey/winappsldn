@@ -9,7 +9,7 @@ permalink: Venue-change-for-tomorrow-night
 If you're coming you need to know this!
 
 Due to events beyond our control, the venue for tomorrow has changed. We'll now be at  
-[The Shooting Star](http://www.shootingstar-city.co.uk/) (cellar bar)  
+The Shooting Star cellar bar (~~http&#58;&#47;&#47;www.shootingstar-city.co.uk/~~)  
 If you came to/remember our meetings in January and February this year, it's that venue.
 
 The address is: The Shooting Star, 125-129 Middlesex St, E1 7JF London

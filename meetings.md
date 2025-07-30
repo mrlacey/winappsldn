@@ -339,7 +339,7 @@ James Mundy: [http://www.vimeo.com/25731202](http://www.vimeo.com/25731202)
 
 **_2nd June 2011_** - **Cardiff**  
 **Mike Hole** (who organised this meeting) has, once again, written a detailed blog post about this meeting. Find it on [his blog](http://mikehole.com/2011/06/02/cardiffwpug-2/).  
-This meeting was again supported by Sequence who have also written about it [on their blog](http://www.sequence.co.uk/en/sitecore/content/Blog/WPUG2.aspx).
+This meeting was again supported by Sequence who have also written about it on their blog (~~http&#58;&#47;&#47;www.sequence.co.uk/en/sitecore/content/Blog/WPUG2.aspx~~).
 
 > "Thanks very much for putting on the event. I found it really useful as well as wonderfully motivating."
 
@@ -363,7 +363,7 @@ Demo: [RunKeeper](http://social.zune.net/redirect?type=phoneApp&id=906cd463-9f34
 
 **_2nd March 2011_** - **Cardiff**  
 **Mike Hole** (who organised this meeting) has written a detailed blog post about this meeting. Find it on [his blog](http://mikehole.com/2011/03/09/cardiff-wpug-march-2011/).  
-This meeting was kindly supported by [Sequence](http://www.sequence.co.uk/).
+This meeting was kindly supported by Sequence (~~http&#58;&#47;&#47;www.sequence.co.uk/~~).
 
 > "Great bunch of people. Lots of enthusiasm and the usual witty banter"
 

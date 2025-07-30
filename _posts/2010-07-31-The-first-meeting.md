@@ -20,7 +20,7 @@ A copy of the code from his demo [is also available](https://mrlacey.github.io/w
 
 Between the longer presentations 5 people got up to give 5 minute demonstrations of applicaitons that they are developing.
 
-First was [Dave Hawes](http://twitter.com/davehawes) who showed a client to his [Skillbook](http://www.skillbook.co.uk/) product:  
+First was [Dave Hawes](http://twitter.com/davehawes) who showed a client to his Skillbook (~~http&#58;&#47;&#47;www.skillbook.co.uk/~~) product:  
   
 Second was [Hosain](http://twitter.com/hosainnet) who demonstrated his London Tube application:  
   
@@ -33,7 +33,7 @@ Finally, [Mike Hole](http://twitter.com/mikehole) & [Howard Scott](http://twitte
 To help encourage people to demonstrate their applications Micorsoft provided an Xbox to award as aprize to the application deemed the best. The audience voted for the ICE application by Apruva as the most deserving of the Xbox.  
 In addition to the Xbox prize, everyone who demonstrates an application in meetings up until the end of the year will go in to a draw to win a "special" prize.
 
-To finish the formal part of the evening, [Paul Foster](http://twitter.com/paulfo) gave an overview of the [Marketplace](http://marketplace.windowsphone.com/) and held an open Q & A session.
+To finish the formal part of the evening, [Paul Foster](http://twitter.com/paulfo) gave an overview of the Marketplace (~~http&#58;&#47;&#47;marketplace.windowsphone.com/~~) and held an open Q & A session.
 
 After Paul's presentation we continued the discussions at a nearby pub and we are very grateful to [Microsoft](http://www.microsoft.com/en/gb/default.aspx) who kindly being picked up the bar tab.
 
@@ -45,7 +45,7 @@ Other blog posts about the event can be found at:
 > ~~http&#58;&#47;&#47;blog.davehawes.com/post/2010/07/29/Going-to-the-first-Windows-Phone-7-(WP7)-user-group.aspx~~  
 > [http://social.msdn.microsoft.com/Forums/en-US/windowsphone7series/thread/5382336f-ffc1-4cee-aa33-39535b901706](http://social.msdn.microsoft.com/Forums/en-US/windowsphone7series/thread/5382336f-ffc1-4cee-aa33-39535b901706)  
 > [http://phone7.wordpress.com/2010/07/30/the-first-windows-phone-7-user-group/](http://phone7.wordpress.com/2010/07/30/the-first-windows-phone-7-user-group/)  
-> [http://consultingblogs.emc.com/michelleflynn/archive/2010/07/29/windows-phone-user-group.aspx](http://consultingblogs.emc.com/michelleflynn/archive/2010/07/29/windows-phone-user-group.aspx)
+> ~~http&#58;&#47;&#47;consultingblogs.emc.com/michelleflynn/archive/2010/07/29/windows-phone-user-group.aspx~~
 
 Here's a small selection of the feedback we had via twitter too:
 

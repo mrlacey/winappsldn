@@ -8,10 +8,10 @@ Updating your app benefits everyone. The more you work on it, the better the exp
 
 ![Nokia](https://mrlacey.github.io/winappsldn/images/nokia-logo-6401-300x93.jpg)
 
-To take part, go to [https://surveymonkey.com/s/WPDS005](http://mrlac.eu/1aAfgvx) and complete the quick survey.
+To take part, go to ~~http&#58;&#47;&#47;surveymonkey.com/s/WPDS005~~ and complete the quick survey.
 
 Not only is it a chance to let Nokia know your thoughts on Windows Phone, Nokia UK and Nokia, Inc (US) are running a prize draw for local developers. It puts all you UK and US developers, who complete the survey by 20th September 2013, in with the chance to win a Nokia Lumia of your choice, a set of Nokia JBL Wireless Charger speakers and $100 PayPal credit!
 
 Click ~~http&#58;&#47;&#47;alphalabs.cc/wp-content/uploads/2013/09/UKDSPrizeDrawTCs.pdf~~ for full UK resident prize draw terms and conditions and click ~~http&#58;&#47;&#47;alphalabs.cc/wp-content/uploads/2013/09/USDSPrizeDrawTCs.pdf~~ for US resident prize draw terms and conditions.
 
-The survey closes on 20th September though. As there’s only a limited amount of time to get involved, so don’t delay! [Take the survey now](http://mrlac.eu/1aAfgvx).
+The survey closes on 20th September though. As there’s only a limited amount of time to get involved, so don’t delay! Take the survey now.
